@@ -211,3 +211,6 @@ ZDaemon is offered as a full free version, providing access to all features and 
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-18 10:33:15 UTC
